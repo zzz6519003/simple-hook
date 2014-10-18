@@ -28,6 +28,9 @@ hook.call("myhook", " haha");
 ```
 
 ##说明
+
+有点家事，不好意耽误了~
+
 之前花了不少时间，看了这些的代码。
 
 https://github.com/cowboy/javascript-hooker
