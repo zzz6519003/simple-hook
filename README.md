@@ -29,8 +29,11 @@ hook.call("myhook", " haha");
 
 ##说明
 之前花了不少时间，看了这些的代码。
+
 https://github.com/cowboy/javascript-hooker
+
 https://github.com/bnoguchi/hooks-js
+
 感觉只是大概了解了皮毛。。。
 如果让我对一个function 实现pre和post
 我能想到的是
